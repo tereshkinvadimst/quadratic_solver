@@ -4,9 +4,9 @@
 
 # About program
 
-  Program solve quadratic equation 
-  
-  $$ ax^2 + bx + c = 0 $$.
+Program solve quadratic equation 
+
+$$ ax^2 + bx + c = 0 $$
 
 
 # building
